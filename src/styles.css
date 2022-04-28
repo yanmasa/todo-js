@@ -23,6 +23,7 @@ button:hover {
 
 p.li {
   margin-right: 8px;
+  min-width: 100px;
 }
 
 .input-area {
@@ -37,7 +38,6 @@ p.li {
 .incomplete-area {
   background-color: #c6ffe2;
   width: 400px;
-  height: 200px;
   min-height: 200px;
   padding: 8px;
   margin: 8px;
